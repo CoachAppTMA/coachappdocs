@@ -1,6 +1,7 @@
 ---
-title: CoachApp — Документация
+title: Главная
 layout: home
+nav_order: 1
 ---
 
 CoachApp — приложение для организации тренировочного процесса. Работает как Telegram Mini App.
